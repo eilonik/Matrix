@@ -1,1 +1,8 @@
-print("Hello world!")
+import pandas as pd
+
+lst = [1,2,3]
+
+for n in lst:
+    print(n)
+
+
